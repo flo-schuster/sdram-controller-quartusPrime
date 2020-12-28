@@ -1,0 +1,18 @@
+#### First blacklist everything, then whitelist what is needed ###
+/*
+**/.DS_Store
+**.log
+
+### Git specific whitelist: ###
+!.gitignore
+!README.md
+!/LICENSE
+
+#### Project specific whitelist: ###
+# Quartus Prime Project File
+!*.qpf
+# HDL files
+!*.v
+!*.vhdl
+# tcl setup script
+!setup_*.tcl
