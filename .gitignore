@@ -16,3 +16,7 @@
 !*.vhdl
 # tcl setup script
 !setup_*.tcl
+# images for documentation
+!/images/*.JPG
+!/images/*.JPEG
+!/images/*.PNG
