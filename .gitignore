@@ -16,6 +16,8 @@
 !*.vhdl
 # tcl setup script
 !setup_*.tcl
+# IPs
+!/IPs/*
 # images for documentation
 !/images/*.JPG
 !/images/*.JPEG
